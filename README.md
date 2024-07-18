@@ -19,13 +19,4 @@ Learning Rate Scheduler:
 
 The Learning Rate Scheduler automatically adjusts the learning rate during training, helping the model converge more efficiently.
 Results
-By applying these techniques, we were able to significantly improve the model's accuracy. Our initial model had an accuracy of around 76%, but with the applied techniques, we achieved an accuracy of approximately 85%. This improvement demonstrates the positive impact of these optimization techniques on the model's performance.
 
-Conclusion
-In this project, we successfully enhanced the accuracy of a CNN for CIFAR-10 image classification using Data Augmentation, Batch Normalization, Dropout, and Learning Rate Scheduler. While more complex models like ResNet or DenseNet can achieve higher accuracies, our goal was to show the effectiveness of these straightforward optimization techniques on a basic model.
-
-Implementation and Achievements
-Through implementing these techniques and using CIFAR-10 training data, we achieved an accuracy of around 85%. This achievement highlights the success of improving model performance with simple and effective optimization methods.
-
-Future Work
-For future work, more complex models and deeper networks can be explored to achieve even higher accuracies. Advanced techniques like Neural Architecture Search and more sophisticated tuning methods can also be considered.
